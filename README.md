@@ -41,8 +41,8 @@ color: #ff0000 ;</li>
   font-size: 32px;</br>
   float: left; }</li>
 <li>Mari kita sejajarkan footer-list disisi kanan : </br> .footer-list { float: right; }</li>
-<li>Terapkan style berikut ke element < li> yang bersarang di dalam footer-list: padding bawah: 20px </br> . footer-list li {
-  padding- bottom: 20px;
+<li>Terapkan style berikut ke element < li> yang bersarang di dalam footer-list: padding bawah: 20px :</br> . footer-list li {
+  </br> padding- bottom: 20px;
 }</li>
 <li> </br></li>
 <li> </br></li>
