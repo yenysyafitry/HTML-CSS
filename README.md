@@ -17,6 +17,7 @@ Sebagian besar element HTML memerlukan sepasang tag yaitu Tag pembuka dan Tag pe
  <li><b>Membuat daftar dengan bullet </b>: </b></br>< ul > </br> < li > < /li > </br>< li > < /li >
  <li><b>Membuat tautan URL tujuan :</b> </br>  < a href="https://instagram.com/yenysyafitry" >Ig< /a >  </li>
  <li><b>Menampilkan gambar: </b> </br> < img src="URL"></li>
+  <li><b>Menambah catatan kaki / Footer : </br>< div class = " footer-logo ">Belajar< /div>  </li>
 </ul>
 
 <b><h1> CSS</h1></b> </br>
@@ -31,8 +32,9 @@ color: #ff0000 ;</li>
 <li>Mengubah lebar dan tinggi element :</br>  width: 200px; </br> height: 80px; </li>
 <li>Menyejajarkan element secara horizontal :</br>float : left;  </li>
 <li>Menyejajarkan logo dan keseluruhan daftar secara horizontal :</br> . header- logo {font-size: 36px;float: left; }</li>
-<li> </br></li>
-<li> </br></li>
+<li>Menambah spasi atau ruang diantara konten dan border ( padding atas dan bawah: 20px & padding kiri dan kanan: 40px): </br> padding: 20px 40px;</li>
+<li>Menambah catatan kaki / Footer : </br> .footer { background-color: #ceccf3; </br>
+  height: 270px; }</li>
 <li> </br></li>
 <li> </br></li>
 <li> </br></li>
