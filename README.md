@@ -55,8 +55,6 @@ color: #ff0000 ;</li>
 <li>Mensejajarkan element contents-item secara horizontal :</br>.contents {height: 500px; }</li>
 <li>Menambah property float contents-item ke kiri :</br> .contents-item {float: left;}</li>
 <li>Menerapkan style berikut ke element < p > di dalam contents-item, ukuran font 24px dan margin atas 30px : </br> .contents-item p { font-size: 24px; margin-top: 30px; }</li>
-<li> </br></li>
-<li> </br></li>
-<li> </br></li>
+
 </ul>
 
