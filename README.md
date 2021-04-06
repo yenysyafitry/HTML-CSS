@@ -14,10 +14,12 @@ Sebagian besar element HTML memerlukan sepasang tag yaitu Tag pembuka dan Tag pe
  <li><b>Membuat paragraf : </b> </br> < p > < /p ></li>
  <li><b>Menulis komentar di HTML komentar harus diapit oleh :</b> </br>< !-- --> </li>
  <li><b>Menetapkan gambar dengan menentukan url di atribut : </b></br> < img src="url" > </li>
- <li><b>Membuat daftar dengan bullet </b>: </b></br>< ul > </br> < li > < /li > </br>< li > < /li >
+ <li><b>Membuat daftar dengan bullet </b>: </b></br>< ul > </br> < li > < /li > </br>< li > < /li > </br>< /ul >
  <li><b>Membuat tautan URL tujuan :</b> </br>  < a href=" https://instagram.com/yenysyafitry " ><a href="https://instagram.com/yenysyafitry">Instagram</a>  < /a></li>
  <li><b>Menampilkan gambar: </b> </br> < img src="URL"></li>
-  <li><b>Menambah catatan kaki / Footer : </b></br>< div class = " footer-logo ">Belajar< /div>  </li>
+  <li><b>Menambah catatan kaki / Footer : </b></br>< div class = " footer">< /div>  </li>
+  <li><b>Menambah catatan kaki / Footer logo: </b></br>< div class = " footer-logo ">Belajar< /div>  </li>
+  <li><b>Menambah catatan kaki / Footer list untuk ui: </b></br>< div class=" footer-list ">< ul > </br> < li > < /li > </br>< li > < /li > </br>< /ul > < /div> </li>
 </ul>
 
 <b><h1> CSS</h1></b> </br>
@@ -35,6 +37,12 @@ color: #ff0000 ;</li>
 <li>Menambah spasi atau ruang diantara konten dan border ( padding atas dan bawah: 20px & padding kiri dan kanan: 40px): </br> padding: 20px 40px;</li>
 <li>Menambah catatan kaki / Footer : </br> .footer { background-color: #ceccf3; </br>
   height: 270px; }</li>
+<li>Mari kita sejajarkan footer-logo disisi kiri : </br>. footer -logo { </br>
+  font-size: 32px;</br>
+  float: left; }</li>
+<li>Mari kita sejajarkan footer-list disisi kanan : </br> .footer-list { float: right; }</li>
+<li> </br></li>
+<li> </br></li>
 <li> </br></li>
 <li> </br></li>
 <li> </br></li>
