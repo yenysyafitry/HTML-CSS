@@ -50,11 +50,11 @@ color: #ff0000 ;</li>
 <li>Membuat layout copy-container ukuran font < h1 > dan ukuran font < h2 > : </br>.copy-container h1 {font-size: 140px;} </br>
 .copy-container h2 { font-size: 60px;} </br>
 .copy-container span { color: #ff4a4a; }</li>
-
-<li> </br></li>
-<li> </br></li>
-<li> </br></li>
-<li> </br></li>
+<li> Tambahkan batas dengan style berikut ke bagian bawah section-title, ketebalan 2px dan style solid :</br>
+.section-title { border-bottom: 2px solid # dee7ec; }</li>
+<li>Mensejajarkan element contents-item secara horizontal :</br>.contents {height: 500px; }</li>
+<li>Menambah property float contents-item ke kiri :</br> .contents-item {float: left;}</li>
+<li>Menerapkan style berikut ke element < p > di dalam contents-item, ukuran font 24px dan margin atas 30px : </br> .contents-item p { font-size: 24px; margin-top: 30px; }</li>
 <li> </br></li>
 <li> </br></li>
 <li> </br></li>
