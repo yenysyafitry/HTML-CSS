@@ -15,7 +15,7 @@ Sebagian besar element HTML memerlukan sepasang tag yaitu Tag pembuka dan Tag pe
  <li><b>Menulis komentar di HTML komentar harus diapit oleh :</b> </br>< !-- --> </li>
  <li><b>Menetapkan gambar dengan menentukan url di atribut : </b></br> < img src="url" > </li>
  <li><b>Membuat daftar dengan bullet </b>: </b></br>< ul > </br> < li > < /li > </br>< li > < /li >
- <li><b>Membuat tautan URL tujuan :</b> </br>  < a href=" https://instagram.com/yenysyafitry " >< /a><a href="https://instagram.com/yenysyafitry">Ig</a>  </li>
+ <li><b>Membuat tautan URL tujuan :</b> </br>  < a href=" https://instagram.com/yenysyafitry " ><a href="https://instagram.com/yenysyafitry">Instagram</a>  < /a></li>
  <li><b>Menampilkan gambar: </b> </br> < img src="URL"></li>
   <li><b>Menambah catatan kaki / Footer : </b></br>< div class = " footer-logo ">Belajar< /div>  </li>
 </ul>
