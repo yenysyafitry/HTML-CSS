@@ -17,6 +17,9 @@ Sebagian besar element HTML memerlukan sepasang tag yaitu Tag pembuka dan Tag pe
  <li><b>Membuat daftar dengan bullet </b>: </b></br>< ul > </br> < li > < /li > </br>< li > < /li > </br>< /ul >
  <li><b>Membuat tautan URL tujuan :</b> </br>  < a href=" https://instagram.com/yenysyafitry " ><a href="https://instagram.com/yenysyafitry">Instagram</a>  < /a></li>
  <li><b>Menampilkan gambar: </b> </br> < img src="URL"></li>
+ <li><b>Membuat layout copy-container :</b> </br><div class="copy-container"></br> <h1>HELLO WORLD<span>.</span></h1></br><h2>Ayo belajar coding</h2> </div></li>
+ <li><b>Membuat layout contents :</b> </br>   <div class="contents"> </div></li>
+  <li><b>Membuat layout contact-form :</b> </br>  <div class="contact-form"></div></li>
   <li><b>Menambah catatan kaki / Footer : </b></br>< div class = " footer">< /div>  </li>
   <li><b>Menambah catatan kaki / Footer logo: </b></br>< div class = " footer-logo ">Belajar< /div>  </li>
   <li><b>Menambah catatan kaki / Footer list untuk ui: </b></br>< div class=" footer-list ">< ul > </br> < li > < /li > </br>< li > < /li > </br>< /ul > < /div> </li>
@@ -44,6 +47,10 @@ color: #ff0000 ;</li>
 <li>Terapkan style berikut ke element < li> yang bersarang di dalam footer-list: padding bawah: 20px :</br> . footer-list li {
   </br> padding- bottom: 20px;
 }</li>
+<li>Membuat layout copy-container ukuran font < h1 > dan ukuran font < h2 > : </br>.copy-container h1 {font-size: 140px;} </br>
+.copy-container h2 { font-size: 60px;} </br>
+.copy-container span { color: #ff4a4a; }</li>
+
 <li> </br></li>
 <li> </br></li>
 <li> </br></li>
