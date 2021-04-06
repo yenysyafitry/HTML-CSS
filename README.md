@@ -24,41 +24,20 @@ Sebagian besar element HTML memerlukan sepasang tag yaitu Tag pembuka dan Tag pe
 </br><ul> 
  <li>Menulis komentar di CSS komentar harus diapit oleh :</br> /*  */ </li>
 <li>Membuat Warna di CSS :  </br>
-color: #ff0000;</li>
-<li>Membuat ukuran font :</br> font-size: 20px; </li>
-<li>Mengganti font :</br>  font-family: "Lucida Grande"; </li>
-<li>Mengubah warna latar belakang :</br> background-color: #f3f372;</li>
+color: #ff0000 ;</li>
+<li>Membuat ukuran font :</br> font -size: 20px; </li>
+<li>Mengganti font :</br>  Font-family: "Lucida Grande"; </li>
+<li>Mengubah warna latar belakang :</br> background - color: # f3f372;</li>
 <li>Mengubah lebar dan tinggi element :</br>  width: 200px; </br> height: 80px; </li>
+<li>Menyejajarkan element secara horizontal :</br>float : left;  </li>
+<li>Menyejajarkan logo dan keseluruhan daftar secara horizontal :</br> . header- logo {font-size: 36px;float: left; }</li>
+<li> </br></li>
+<li> </br></li>
+<li> </br></li>
+<li> </br></li>
+<li> </br></li>
+<li> </br></li>
+<li> </br></li>
+<li> </br></li>
 </ul>
-
-<b>Yuk Kita Latihan HTML dengan format index.html</b></br>
-< !DOCTYPE html> </br>
-< html> < head></br>
-    < meta charset="utf-8"> </br>
-    < title>Progate</title></br>
-    < link rel="stylesheet" href="stylesheet.css"> </br>
-  < /head>< body> </br>
-    < div class="header"> </br>
-      < !-- Tambahkan tag < div > dengan class "header-logo" -- > </br>
-      < div class="header-logo">belajar< /div> </br>
-       < !-- Tambahkan tag < div > dengan class "header-list" -- > </br>
-      < div class="header-list" > </br>
-        < ul ></br>
-          < li>Tentang< /li> </br>
-          < li>Pelajaran< /li></br>
-          < li>Hubungi kami< /li></br>
-        < /ul> </br>
-       < /div>< /div></br>
- < div class="main"></br>
-       < /div></br>
-    < div class="footer"> </br>
-    < /div>< /body> < /html>
-
-<b>Dari penjelasan di CSS diatas yuk kita langsung belajar stylesheet.css : </b></br>
-h1 {color: #e6855e; </br>font-size: 30px;</br> background-color: #f3f372;</br> height: 80px; </br>width: 200px;} </br>
-img {height: 50px; width: 70px;}
-li {color: #444;} </br>
-.selected {color: #ff0000;} </br>
-body {font-family: "Avenir Next";} </br>
-body {font-family: "Avenir Next";} </br>
 
