@@ -3,9 +3,9 @@
 <b>Cara Kerja HTML</b>
 <br>Mari kita mulai pelajaran kita dengan HTML ! </br>
 Aturan pertama penulisan code HTML adalah mengapit teks dengan tag. Tag dapat memberikan arti seperti judul atau tautan pada teks </br></br>
-<b>Tag pembuka dan Tag Penutup</b></br>
-Sebagian besar element HTML memerlukan sepasang tag yaitu Tag pembuka dan Tag penutup. Dengan teks disisipkan di antara keduanya Tag pembuka <> dan Saat menggunakan tag penutup pastikan untuk meletakkan </></br>
-<ul>
+<p align="justify"><b>Tag pembuka dan Tag Penutup</b></br>
+Sebagian besar element HTML memerlukan sepasang tag yaitu Tag pembuka dan Tag penutup. Dengan teks disisipkan di antara keduanya Tag pembuka <> dan Saat menggunakan tag penutup pastikan untuk meletakkan </></br></p>
+<ul align="justify">
 <li><b>Disetiap dokumen HTML, Anda harus memulai dengan deklarasi DOCTYPE. Ini akan memastikan versi HTML situs web Anda adalah yang terbaru :</b></br>
 < !DOCTYPE html ></li>
 <li><b>Pengcodean karakter :</b></br> < meta charset="utf-8" ></li>
@@ -27,7 +27,7 @@ Sebagian besar element HTML memerlukan sepasang tag yaitu Tag pembuka dan Tag pe
 </ul>
 
 <b><h1> CSS</h1></b> </br>
-<b>CSS</b> digunakan untuk mendesain situs web. Dengan CSS, Anda dapat mengubah hal-hal seperti warna, ukuran, dan spasi pada element HTML. Gambar disisi kiri hanya terdiri dari HTML saja. Dengan menerapkan CSS, Anda dapat menentukan style seperti tata letak, sesuai contoh yang ditampilkan disisi kanan
+<p align="justify"><b>CSS</b> digunakan untuk mendesain situs web. Dengan CSS, Anda dapat mengubah hal-hal seperti warna, ukuran, dan spasi pada element HTML. Gambar disisi kiri hanya terdiri dari HTML saja. Dengan menerapkan CSS, Anda dapat menentukan style seperti tata letak, sesuai contoh yang ditampilkan disisi kanan</p>
 </br><ul> 
  <li>Menulis komentar di CSS komentar harus diapit oleh :</br> /*  */ </li>
 <li>Membuat Warna di CSS :  </br>
@@ -59,3 +59,6 @@ color: #ff0000 ;</li>
 
 </ul>
 
+
+</br></br></br>
+<p align="center"><b>E-Sertifikat </b></br><img src="https://github.com/yenysyafitry/HTML-CSS/blob/main/e-sertifikat.jpg"></p>
