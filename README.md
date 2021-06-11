@@ -26,6 +26,9 @@ Sebagian besar element HTML memerlukan sepasang tag yaitu Tag pembuka dan Tag pe
   <li><b>Menambah catatan kaki / Footer list untuk ui: </b></br>< div class=" footer-list ">< ul > </br> < li > < /li > </br>< li > < /li > </br>< /ul > < /div> </li>
 </ul>
  
+
+<p>HTML & CSS Study I Memulai dengan HTML ( Judul dan Paragraf)</p>
+ 
 ```plantuml 
 <!-- Apit teks dengan tag <h1> -->
 <h1>Selamat Datang di Progate</h1>
@@ -37,7 +40,7 @@ Sebagian besar element HTML memerlukan sepasang tag yaitu Tag pembuka dan Tag pe
 <p>HTML adalah singkatan dari HyperText Markup Language</p>
 ```
 
-<table><tr><td> Hasil Output </br>
+<table><tr><td> <b>Hasil Output :</b></br>
  <h1>Selamat Datang di Progate</h1>
 <h2>Tentang HTML</h2>
 <p>HTML adalah singkatan dari HyperText Markup Language</p>
