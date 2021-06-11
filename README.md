@@ -27,7 +27,7 @@ Sebagian besar element HTML memerlukan sepasang tag yaitu Tag pembuka dan Tag pe
 </ul>
  
 
-<p>HTML & CSS Study I Memulai dengan HTML ( Judul dan Paragraf)</p>
+<p><b>HTML & CSS Study I Memulai dengan HTML ( Judul dan Paragraf)</b></p>
  
 ```plantuml 
 <!-- Apit teks dengan tag <h1> -->
@@ -45,6 +45,32 @@ Sebagian besar element HTML memerlukan sepasang tag yaitu Tag pembuka dan Tag pe
 <h2>Tentang HTML</h2>
 <p>HTML adalah singkatan dari HyperText Markup Language</p>
  </td></tr></table>
+
+<p><b>HTML & CSS Study IMemulai dengan HTML (Tautan)</b></p>
+
+```plantuml 
+<!-- Tambahkan tautan yang menuju ke "https://progate.com" -->
+<a href="https://progate.com">Ke Progate</a>
+<a href="https://progate.com">Progate</a>
+<!-- Tambahkan tautan yang menuju ke "https://google.com" -->
+```
+
+<table><tr><td> <b>Hasil Output :</b></br>
+ <!-- Tambahkan tautan yang menuju ke "https://progate.com" -->
+<a href="https://progate.com">Ke Progate</a>
+<a href="https://progate.com">Progate</a>
+<!-- Tambahkan tautan yang menuju ke "https://google.com" -->
+ </td></tr></table>
+ 
+<p><b>HTML & CSS Study IMemulai dengan HTML4. Gambar</b></p>
+
+```plantuml 
+<!-- Tambahkan gambar menggunakan URL yang ditentukan -->
+<img src="https://progate.com/images/html/beginner/wanko.jpg">
+
+<!-- Tambahkan gambar menggunakan URL yang ditentukan -->
+<img src="https://progate.com/images/html/beginner/school.jpg">
+```
 
 <b><h1> CSS</h1></b> </br>
 <p align="justify"><b>CSS</b> digunakan untuk mendesain situs web. Dengan CSS, Anda dapat mengubah hal-hal seperti warna, ukuran, dan spasi pada element HTML. Gambar disisi kiri hanya terdiri dari HTML saja. Dengan menerapkan CSS, Anda dapat menentukan style seperti tata letak, sesuai contoh yang ditampilkan disisi kanan</p>
