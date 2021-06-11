@@ -25,6 +25,23 @@ Sebagian besar element HTML memerlukan sepasang tag yaitu Tag pembuka dan Tag pe
   <li><b>Menambah catatan kaki / Footer logo: </b></br>< div class = " footer-logo ">Belajar< /div>  </li>
   <li><b>Menambah catatan kaki / Footer list untuk ui: </b></br>< div class=" footer-list ">< ul > </br> < li > < /li > </br>< li > < /li > </br>< /ul > < /div> </li>
 </ul>
+ 
+```plantuml 
+<!-- Apit teks dengan tag <h1> -->
+<h1>Selamat Datang di Progate</h1>
+
+<!-- Apit teks dengan tag <h2> -->
+<h2>Tentang HTML</h2>
+
+<!-- Apit teks dengan tag <p> -->
+<p>HTML adalah singkatan dari HyperText Markup Language</p>
+```
+
+<table><tr><td> Hasil Output </br>
+ <h1>Selamat Datang di Progate</h1>
+<h2>Tentang HTML</h2>
+<p>HTML adalah singkatan dari HyperText Markup Language</p>
+ </td></tr></table>
 
 <b><h1> CSS</h1></b> </br>
 <p align="justify"><b>CSS</b> digunakan untuk mendesain situs web. Dengan CSS, Anda dapat mengubah hal-hal seperti warna, ukuran, dan spasi pada element HTML. Gambar disisi kiri hanya terdiri dari HTML saja. Dengan menerapkan CSS, Anda dapat menentukan style seperti tata letak, sesuai contoh yang ditampilkan disisi kanan</p>
